@@ -1,0 +1,17 @@
+Debug
+*.TMP
+*.png
+*.lst
+*.pbd
+*.sim
+*.out
+*.o
+*.pbi
+*.css
+*.htm
+*.html
+*.dep
+*.cspy.bat
+*.dbgdt
+*.dni
+*.wsdt
